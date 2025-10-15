@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\bin\Debug\net9.0\MyApp.exe
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\bin\Debug\net9.0\MyApp.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\bin\Debug\net9.0\MyApp.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\bin\Debug\net9.0\MyApp.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\MyApp.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\MyApp.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\MyApp\obj\Debug\net9.0\ref\MyApp.dll
