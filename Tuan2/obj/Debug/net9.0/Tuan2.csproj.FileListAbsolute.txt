@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\bin\Debug\net9.0\Tuan2.exe
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\bin\Debug\net9.0\Tuan2.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\bin\Debug\net9.0\Tuan2.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\bin\Debug\net9.0\Tuan2.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\bin\Debug\net9.0\Tuan2.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\refint\Tuan2.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\Tuan2.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2\obj\Debug\net9.0\ref\Tuan2.dll
