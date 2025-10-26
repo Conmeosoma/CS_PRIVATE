@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\bin\Debug\net9.0\Bai5.exe
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\bin\Debug\net9.0\Bai5.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\bin\Debug\net9.0\Bai5.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\bin\Debug\net9.0\Bai5.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\bin\Debug\net9.0\Bai5.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\refint\Bai5.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\Bai5.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\Tuan2_BaiTapThemm\Bai5\Bai5\obj\Debug\net9.0\ref\Bai5.dll
