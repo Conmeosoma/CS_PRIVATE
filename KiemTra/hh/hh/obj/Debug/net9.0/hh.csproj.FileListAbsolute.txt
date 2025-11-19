@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\bin\Debug\net9.0\hh.exe
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\bin\Debug\net9.0\hh.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\bin\Debug\net9.0\hh.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\bin\Debug\net9.0\hh.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\bin\Debug\net9.0\hh.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\refint\hh.dll
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.pdb
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\hh.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\cs\KiemTra\hh\hh\obj\Debug\net9.0\ref\hh.dll
